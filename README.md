@@ -10,4 +10,4 @@ Repo for Mock Data creation
 - https://mockend.com/CRHarriss/MockData/posts
 - https://mockend.com/CRHarriss/MockData/posts/1
 - https://mockend.com/CRHarriss/MockData/comments
-- https://mockend.com/CRHarriss/MockData/posts?limit=5&views_order=desc
+- https://mockend.com/CRHarriss/MockData/posts?limit=5&comments_order=desc
